@@ -1,0 +1,13 @@
+.list-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.list-container .list-component {
+    padding-top: 1em;
+}
+.list-container .list-component a {
+    padding-right: 1em;
+}

@@ -1,6 +1,7 @@
 # MinIO Tutorial
 
-![Alt text](./demo.png)
+![Demo](demo.png)
+
 This is an example repository demonstrating how to build a basic file system using Minio and TypeScript.
 
 ## Tech Stack
@@ -32,4 +33,4 @@ export MINIO_CONFIG_ENV_FILE=/etc/default/minio
 minio server --console-address :9090
 ```
 MinIO (Run on Zeabur) :
-![Alt text](./minio-zeabur.png)
+![Zeabur](./minio-zeabur.png)
